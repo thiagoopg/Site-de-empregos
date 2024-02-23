@@ -1,0 +1,11 @@
+site inicial
+site com vagas
+site com a vaga detalhada
+site com formulário para o candidato
+site de login
+pagina inicial do adiministrador
+pagina com as respostas do formulário do candidato
+página com formulário para a entrevista
+página com as respostas do formulário para a entrevista
+página mostrando as vagas com opções de personalizar
+página da vaga para personalizar ela.
